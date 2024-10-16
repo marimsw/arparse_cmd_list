@@ -14,5 +14,5 @@
 
 + Команда unzip пример : python script_name.py unzip /path/to/archive.zip /path/to/extract - Распаковка ZIP-архив
 
-+ Команда download пример :python script_name.py download https://tinyurl.com/29lqesg2 Название_архива.zip /path/to/save - скачивание ZIP-архива
++ Команда download пример :python script_name.py download https://ссылка Название_архива.zip /path/to/save - скачивание ZIP-архива
 # arparse_cmd_list
