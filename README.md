@@ -10,9 +10,9 @@ export S3_ENDPOINT_URL='https://imb___.tech/'
 
 Проверьте переменные окружения: Убедитесь, что переменные окружения AWS_ACCESS_KEY_ID и AWS_SECRET_ACCESS_KEY установлены правильно. Вы можете проверить это, выполнив следующую команду в терминале:
 
-echo $AWS_ACCESS_KEY_ID
-echo $AWS_SECRET_ACCESS_KEY
-echo $S3_ENDPOINT_URL
+echo $AWS_ACCESS_KEY_ID     
+echo $AWS_SECRET_ACCESS_KEY     
+echo $S3_ENDPOINT_URL      
 ===============================================================================================
 
 Чтобы использовать скрипт в виде исполняемого файла, вы должны преобразовать его в формат py.
