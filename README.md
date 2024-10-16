@@ -4,9 +4,9 @@
 рассмотрите возможность использования переменных окружения:
 (в терминале, в папке с кодом) 
 
-export AWS_ACCESS_KEY_ID='ваш_ключ_доступа'
-export AWS_SECRET_ACCESS_KEY='ваш_секретный_ключ'
-export S3_ENDPOINT_URL='https://imb___.tech/'
+export AWS_ACCESS_KEY_ID='ваш_ключ_доступа'     
+export AWS_SECRET_ACCESS_KEY='ваш_секретный_ключ'     
+export S3_ENDPOINT_URL='https://imb___.tech/'     
 
 Проверьте переменные окружения: Убедитесь, что переменные окружения AWS_ACCESS_KEY_ID и AWS_SECRET_ACCESS_KEY установлены правильно. Вы можете проверить это, выполнив следующую команду в терминале:
 
