@@ -138,13 +138,13 @@ python script_name.py s3_list public moderate/files_to_script
 
 python script_name.py best_weights /path/to/local/archive /path/to/weights/folder --delete_archives
 
-script_name.py - это имя файла Python, в котором находится функция 
-best_weights - это команда, которая вызывает функцию extract_best_weights.
-/path/to/local/archive - это локальный путь к архиву, из которого будут извлечены лучшие веса.
-/path/to/weights/folder - это папка, в которую будут сохранены лучшие веса.
---delete_archives - это опциональный аргумент, который указывает на то, что архивы должны быть удалены после извлечения лучших весов.
+script_name.py - это имя файла Python, в котором находится функция      
+best_weights - это команда, которая вызывает функцию extract_best_weights.     
+/path/to/local/archive - это локальный путь к архиву, из которого будут извлечены лучшие веса.     
+/path/to/weights/folder - это папка, в которую будут сохранены лучшие веса.     
+--delete_archives - это опциональный аргумент, который указывает на то, что архивы должны быть удалены после извлечения лучших весов.     
 
-Если вы хотите сохранить архивы, вы можете вызвать функцию без аргумента --delete_archives
+Если вы хотите сохранить архивы, вы можете вызвать функцию без аргумента --delete_archives     
 
 python script_name.py best_weights /path/to/local/archive /path/to/weights/folder
 
