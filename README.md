@@ -104,7 +104,7 @@ kod list /home/tbdbj/Marina/
 4. Скачивание ZIP-архива по ссылке
 Чтобы скачать ZIP-архив по URL, используйте команду download, указывая URL, имя файла для сохранения и путь для сохранения:
 
-Команда download пример :python script_name.py download https://tinyurl.com/29lqesg2 Название_архива.zip /path/to/save - скачивание ZIP-архива
+Команда download пример :python script_name.py download https://ппп.com/29lqesg2 Название_архива.zip /path/to/save - скачивание ZIP-архива
 
 (Вписывать без ковычек, ковычки для примера)
 5. Скачивание файла из S3
